@@ -69,5 +69,7 @@ fun main() {
     //Actualizacion de front
     //Creacion de bd
     //Conexion de la bd
+    //Creacaion de la pantalla de incio
+    //Creacion de la interfaz
 
 }
