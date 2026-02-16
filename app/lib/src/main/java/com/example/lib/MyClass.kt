@@ -67,4 +67,5 @@ fun main() {
     val funcionalidad = "registrase en la app"
     //Creacion de la api
     //Actualizacion de front
+    //Creacion de bd
 }
