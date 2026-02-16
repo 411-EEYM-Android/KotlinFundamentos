@@ -71,5 +71,6 @@ fun main() {
     //Conexion de la bd
     //Creacaion de la pantalla de incio
     //Creacion de la interfaz
+    //Conexion con la api
 
 }
