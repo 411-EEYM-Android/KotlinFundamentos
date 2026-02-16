@@ -68,4 +68,6 @@ fun main() {
     //Creacion de la api
     //Actualizacion de front
     //Creacion de bd
+    //Conexion de la bd
+
 }
